@@ -1,5 +1,7 @@
 Buddy Buffer Manager
+
 Sam Largaespada
+
 Source Course: CISC310
 
 The purpose of this project was to simulate a memory allocation strategy called the buddy system. This strategy takes blocks of memory and divides them into “buddies” recursively until we get a buffer that is of a correct size. Further rounds of allocation will prioritize using chunks of memory that have already been split and that are of an appropriate size. Say we have a block of memory that is size 1028. If we want to allocate a chunk of size 256 we would first split the block into two 512 sized buffers, then split one of those into two 256 sized buffers and consider one of those buffers in-use.
