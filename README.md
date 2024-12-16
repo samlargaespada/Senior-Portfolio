@@ -1,8 +1,6 @@
 # Senior-Portfolio
 
-Senior Portfolio
-
-Sam Largaespada
+**Sam Largaespada**
 
 I chose these projects for my portfolio as I felt like they highlight some of the unique skills and insights I’ve gained over the last 2 years at St. Thomas. These projects include a simulation of the buddy memory allocation system, a database and graphical user interface (GUI) for tracking friends and their gaming activity, and a data analysis project which used Structural Equation Modeling (SEM) and Principal Component Analysis (PCA) to predict mental and physical health based on various factors.
 
